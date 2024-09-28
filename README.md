@@ -1,8 +1,7 @@
 # Hey there! 👋 I'm Gil Gabunada, aka @recyclebin12331
 
 ## Top Languages
-[!Top](https://icons8.com/icon/20909/html-5) 
-
+- ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
 ## About Me
 - 🌱 I’m currently studying computer engineering and trying to make my code less buggy than my room.
 - 💞️ I’m looking to collaborate on innovative tech projects and coding challenges.
