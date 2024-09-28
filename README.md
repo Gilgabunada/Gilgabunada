@@ -19,7 +19,7 @@
 I'm currently working on a top-secret project that involves AI, IoT, and a lot of coffee. Stay tuned for more updates!
 
 ## Tech Stack
-- 🔧 Tools: ![Arduino Icon](![image](https://github.com/user-attachments/assets/e408b1aa-e1b3-462d-bb5b-ed4a46fd5722)
+- 🔧 Tools: ![Git Icon](https://img.icons8.com/color/48/000000/git.png) ![Arduino Icon](https://img.icons8.com/color/48/000000/arduino.png) ![Raspberry Pi Icon](https://img.icons8.com/color/48/000000/raspberry-pi.png) ![Soldering Icon](https://img.icons8.com/ios-filled/50/000000/soldering-iron.png)
 
 
 ## GitHub Stats
