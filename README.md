@@ -30,6 +30,6 @@
 
 
 ### 🔖 Badges
-![Built with Love](https://img.shields.io/badge/Built%20with-Love-red)
-![GitHub stars](https://img.shields.io/github/stars/recyclebin12331?style=social)
-![GitHub forks](https://img.shields.io/github/forks/recyclebin12331?style=social)
+- ![Built with Love](https://img.shields.io/badge/Built%20with-Love-red)
+- ![GitHub stars](https://img.shields.io/github/stars/recyclebin12331?style=social)
+- ![GitHub forks](https://img.shields.io/github/forks/recyclebin12331?style=social)
