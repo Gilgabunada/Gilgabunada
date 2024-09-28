@@ -1,10 +1,12 @@
 # Hey there! 👋 I'm Gil, aka @recyclebin12331
 
-## Known Languages
+## Programming Languages
 - ![C Language Icon](https://img.icons8.com/color/48/000000/c-programming.png) ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+
 ## Currently Learning
 - ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
 - ![.NET Icon](https://img.icons8.com/color/48/000000/net-framework.png)
+
 
 ## About Me
 - 🧑‍🎓 3rd year Bachelor of Science in Computer Engineering and trying to make my code less buggy than my room.
@@ -23,4 +25,6 @@
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=recyclebin12331&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=recyclebin12331&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recyclebin12331&theme=radical)
+
 
