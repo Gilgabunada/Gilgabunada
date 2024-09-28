@@ -6,7 +6,8 @@
 ## Currently Learning
 - ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
 - ![.NET Icon](https://img.icons8.com/color/48/000000/net-framework.png)
-
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=recyclebin12331&layout=compact&theme=radical)
 
 ## About Me
 - 🧑‍🎓 3rd year Bachelor of Science in Computer Engineering and trying to make my code less buggy than my room.
@@ -24,7 +25,7 @@
 - I once tried to teach my cat to code. It didn't go well, but now she can type "meow" really fast.
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=recyclebin12331&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=recyclebin12331&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=recyclebin12331&show_icons=true&theme=radical) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recyclebin12331&theme=radical)
 
 
