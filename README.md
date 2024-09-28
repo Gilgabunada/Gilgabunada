@@ -22,10 +22,5 @@
 - I once tried to teach my cat to code. It didn't go well, but now she can type "meow" really fast.
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=recyclebin12331&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=recyclebin12331&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=recyclebin12331&layout=compact&theme=radical)
 
-## Contributions
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=recyclebin12331&theme=gruvbox)
-
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=recyclebin12331&layout=compact&theme=radical)
