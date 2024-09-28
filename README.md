@@ -23,7 +23,7 @@
 - 📘 Facebook: [Gil Gabunada](https://www.facebook.com/gil.gabunada/)
 
 ### Tools
-- ![Git Icon](https://img.icons8.com/color/48/000000/git.png) ![Arduino Icon](https://img.icons8.com/color/48/000000/arduino.png) ![Raspberry Pi Icon](https://img.icons8.com/color/48/000000/raspberry-pi.png)
+![Git Icon](https://img.icons8.com/color/48/000000/git.png) ![Arduino Icon](https://img.icons8.com/color/48/000000/arduino.png) ![Raspberry Pi Icon](https://img.icons8.com/color/48/000000/raspberry-pi.png)
   
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=recyclebin12331&show_icons=true&theme=radical) 
