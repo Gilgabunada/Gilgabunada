@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Gil, aka @recyclebin12331
 
-## Top Languages
+## Known Languages
 - ![C Language Icon](https://img.icons8.com/color/48/000000/c-programming.png) ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ## Currently Learning
 - ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
