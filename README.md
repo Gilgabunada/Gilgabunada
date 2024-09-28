@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Gil Gabunada, aka @recyclebin12331
+# Hey there! 👋 I'm Gil, aka @recyclebin12331
 
 ## Top Languages
 - ![C Language Icon](https://img.icons8.com/color/48/000000/c-programming.png) ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
