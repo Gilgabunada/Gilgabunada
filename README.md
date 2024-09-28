@@ -1,8 +1,5 @@
 # Hey there! 👋 I'm Gil Gabunada, aka @recyclebin12331
 
-![Welcome Character](https://img.icons8.com/ios-filled/50/000000/welcome.png)
-
-
 ## Top Languages
 - ![C Language Icon](https://img.icons8.com/color/48/000000/c-programming.png) ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ## Currently Learning
