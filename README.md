@@ -2,6 +2,7 @@
 
 ## Top Languages
 - ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
+- ![C Language Icon](https://img.icons8.com/color/48/000000/c-programming.png)
 ## About Me
 - 🌱 I’m currently studying computer engineering and trying to make my code less buggy than my room.
 - 💞️ I’m looking to collaborate on innovative tech projects and coding challenges.
@@ -18,8 +19,8 @@
 I'm currently working on a top-secret project that involves AI, IoT, and a lot of coffee. Stay tuned for more updates!
 
 ## Tech Stack
-- 💻 Languages: HTML, CSS, Java, C, Python (because who doesn't love a good snake?)
-- 🔧 Tools: Git, Arduino, Raspberry Pi, and a trusty old soldering iron
+- 🔧 Tools: ![Arduino Icon](![image](https://github.com/user-attachments/assets/e408b1aa-e1b3-462d-bb5b-ed4a46fd5722)
+
 
 ## GitHub Stats
 !Your GitHub Stats
