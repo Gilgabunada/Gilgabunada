@@ -1,8 +1,7 @@
 # Hey there! 👋 I'm Gil Gabunada, aka @recyclebin12331
-
+![Welcome Character](https://cdn.openai.com/dall-e-2/demos/2zq02ywe/0_dzX2Y.jpg)
 ## Top Languages
 - ![C Language Icon](https://img.icons8.com/color/48/000000/c-programming.png) ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-- 
 ## Currently Learning
 - ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
 - ![.NET Icon](https://img.icons8.com/color/48/000000/net-framework.png)
