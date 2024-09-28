@@ -18,14 +18,12 @@
 
 ## Tools
 - ![Git Icon](https://img.icons8.com/color/48/000000/git.png) ![Arduino Icon](https://img.icons8.com/color/48/000000/arduino.png) ![Raspberry Pi Icon](https://img.icons8.com/color/48/000000/raspberry-pi.png)
-- ![.NET Icon](https://img.icons8.com/color/48/000000/net-framework.png)
-- 
+  
 ## Fun Fact
-I once tried to teach my cat to code. It didn't go well, but now she can type "meow" really fast.
+- I once tried to teach my cat to code. It didn't go well, but now she can type "meow" really fast.
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=recyclebin12331&show_icons=true&theme=radical)
 
 ## Contributions
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=recyclebin12331&theme=gruvbox)
-
