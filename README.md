@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Gil Gabunada, aka @recyclebin12331
 
 ## Top Languages
-!Top Languages
+!recyclebin12331's GitHub stats
 
 ## About Me
 - 🌱 I’m currently studying computer engineering and trying to make my code less buggy than my room.
