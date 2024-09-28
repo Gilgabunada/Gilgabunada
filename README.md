@@ -26,3 +26,6 @@
 
 ## Contributions
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=recyclebin12331&theme=gruvbox)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=recyclebin12331&layout=compact&theme=radical)
