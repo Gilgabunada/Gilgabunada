@@ -1,12 +1,12 @@
 # Hey there! 👋 I'm Gil Gabunada, aka @recyclebin12331
 
 ## Top Languages
-!recyclebin12331's GitHub stats
+[!Top](https://icons8.com/icon/20909/html-5) 
 
 ## About Me
 - 🌱 I’m currently studying computer engineering and trying to make my code less buggy than my room.
-- 💞️ I’m looking to collaborate on innovative tech projects and coding challenges. If you have a project that involves lasers or robots, count me in!
-- ⚡ Fun fact: I love doing hardware projects, especially those that combine hardware and software. My latest creation? A smart fridge that tells me when I'm out of snacks. 🍫
+- 💞️ I’m looking to collaborate on innovative tech projects and coding challenges.
+- ⚡ Fun fact: I love doing hardware projects, My latest creation? A smart fridge that tells me when I'm out of snacks. 🍫
 
 ## How to Reach Me
 - 📫 Email: guelbertgabunada@gmail.com
