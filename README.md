@@ -21,6 +21,7 @@
 - 📫 Email: guelbertgabunada@gmail.com
 - 🐦 Twitter: [Gil Gabunada](https://x.com/GGabunada49596)
 - 📘 Facebook: [Gil Gabunada](https://www.facebook.com/gil.gabunada/)
+- ![Portfolio Icon](https://img.icons8.com/color/48/000000/portfolio.png)
 
 ### Tools
 ![Git Icon](https://img.icons8.com/color/48/000000/git.png) ![Arduino Icon](https://img.icons8.com/color/48/000000/arduino.png) ![Raspberry Pi Icon](https://img.icons8.com/color/48/000000/raspberry-pi.png)
