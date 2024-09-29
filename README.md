@@ -13,9 +13,9 @@
 ### About Me
 - 🧑‍🎓 3rd year Bachelor of Science in Computer Engineering and trying to make my code less buggy than my room.
 - 💞️ I’m looking to collaborate on innovative tech projects and coding challenges.
-- ⚡ Fun fact: I love doing hardware projects, My latest creation? A smart fridge that tells me when I'm out of snacks. 🍫
 
-### Fun Fact
+### ⚡ Fun Fact
+- I love doing hardware projects, My latest creation? A smart fridge that tells me when I'm out of snacks. 🍫
 - I once tried to teach my cat to code. It didn't go well, but now she can type "meow" really fast.
 
 
