@@ -1,5 +1,7 @@
 ## Hey there! 👋 I'm Gil
 
+ ![Portfolio Icon](https://img.icons8.com/color/48/000000/portfolio.png) [ My Personal Portfolio](https://recyclebin12331.github.io/)
+ 
 ### Programming Languages
 ![C Language Icon](https://img.icons8.com/color/48/000000/c-programming.png) ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
@@ -21,7 +23,6 @@
 - 📫 Email: guelbertgabunada@gmail.com
 - 🐦 Twitter: [Gil Gabunada](https://x.com/GGabunada49596)
 - 📘 Facebook: [Gil Gabunada](https://www.facebook.com/gil.gabunada/)
-- ![Portfolio Icon](https://img.icons8.com/color/48/000000/portfolio.png)
 
 ### Tools
 ![Git Icon](https://img.icons8.com/color/48/000000/git.png) ![Arduino Icon](https://img.icons8.com/color/48/000000/arduino.png) ![Raspberry Pi Icon](https://img.icons8.com/color/48/000000/raspberry-pi.png)
