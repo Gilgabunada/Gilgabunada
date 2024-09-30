@@ -5,7 +5,7 @@
 ### Programming Languages
 ![C Language Icon](https://img.icons8.com/color/48/000000/c-programming.png) ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
-### Currently Learning
+### Currently Learning asdas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=recyclebin12331&layout=compact&theme=radical)
