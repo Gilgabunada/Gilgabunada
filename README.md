@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Gil armand biot
+## Hey there! 👋 I'm Gil 
 
  [ My Personal Portfolio](https://recyclebin12331.github.io/)
  
