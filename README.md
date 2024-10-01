@@ -30,6 +30,5 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gilgabunada&show_icons=true&theme=radical) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gilgabunada&theme=radical)
-## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Gilgabunada&theme=matrix)
 
