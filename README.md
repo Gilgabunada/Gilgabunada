@@ -13,7 +13,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgabunada&layout=compact&theme=radical)
 
 ### About Me
-- 🧑‍🎓 3rd year Bachelor of Science in Computer Engineering and trying to make my code less buggy than my room.
+- 🧑‍🎓 4th year Bachelor of Science in Computer Engineering and trying to make my code less buggy than my room.
 - 💞️ I’m looking to collaborate on innovative tech projects and coding challenges.
 
 ### ⚡ Fun Fact
