@@ -1,10 +1,10 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Hey%2C%20I'm%20Gil&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Hardware%20Tinkerer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Hey%2C%20I'm%20Gil&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Hardware%20Tinkerer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/Gilgabunada">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=620&height=45&lines=Full+Stack+Developer;Hardware+%26+IoT+Enthusiast;Computer+Engineer;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=620&height=45&lines=Full+Stack+Web+Developer;AI+Enthusiast;Hardware+%26+IoT+Enthusiast;Computer+Engineer;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,9 +26,9 @@
 
 ```yaml
 name:      Gil Gabunada
-role:      Full Stack Dev + Hardware Nerd
+role:      Full Stack Web Dev + AI Enthusiast
 degree:    BS Computer Engineering 🎓
-focus:     IoT · Embedded Systems · Web Apps
+focus:     AI · IoT · Embedded · Web Apps
 mode:      Building. Breaking. Learning.
 open_to:   Collaborating on groundbreaking tech
 ```
@@ -53,17 +53,21 @@ open_to:   Collaborating on groundbreaking tech
 
 <div align="center">
 
-**Languages**
+**💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=js,python,java,c,cpp&perline=5" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,html,css,python,java,c,cpp&perline=7" alt="Languages" />
 
-**Frameworks & Libraries**
+**🧩 Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=vue,react,bootstrap&perline=3" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,express,mongodb&perline=5" alt="Frameworks" />
 
-**Tools, Databases & Hardware**
+**🛠️ Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,mongodb,postman,arduino,raspberrypi&perline=6" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,raspberrypi&perline=6" alt="Tools" />
+
+**🤖 AI & Data Science**
+
+<img src="https://img.shields.io/badge/Ollama-C77DFF?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0D1117" alt="Ollama" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117" alt="Hugging%20Face" /> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black&labelColor=0D1117" alt="Google%20Colab" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117" alt="Jupyter" /> <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white&labelColor=0D1117" alt="Roboflow" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=0D1117" alt="Claude%20Code" />
 
 </div>
 
