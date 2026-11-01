@@ -1,98 +1,122 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-  
-# 👋 Hey there! I'm Gil
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=FF00FF&center=true&width=600&lines=Full+Stack+Developer;Hardware+Enthusiast;Computer+Engineer;Always+Learning" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Hey%2C%20I'm%20Gil&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Hardware%20Tinkerer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-FF00FF?style=for-the-badge&logo=globe&logoColor=white&labelColor=000000)](https://gil.guelbertgabunada.workers.dev/)
-[![Programming Odyssey](https://img.shields.io/badge/Programming%20Odyssey-00FFFF?style=for-the-badge&logo=github-pages&logoColor=black&labelColor=000000)](https://gilgabunada.github.io/Programming-Odyssey/)
+<a href="https://github.com/Gilgabunada">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=620&height=45&lines=Full+Stack+Developer;Hardware+%26+IoT+Enthusiast;Computer+Engineer;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://gil.guelbertgabunada.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-C77DFF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" /></a>
+<a href="https://gilgabunada.github.io/Programming-Odyssey/"><img src="https://img.shields.io/badge/Programming%20Odyssey-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Programming Odyssey" /></a>
+<img src="https://komarev.com/ghpvc/?username=Gilgabunada&label=Profile%20views&color=7B2CBF&style=for-the-badge" alt="Profile views" />
 
 </div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## ⚡ About Me
 
-### 💻 Languages & Frameworks
+<table>
+<tr>
+<td width="62%" valign="top">
+
+```yaml
+name:      Gil Gabunada
+role:      Full Stack Dev + Hardware Nerd
+degree:    BS Computer Engineering 🎓
+focus:     IoT · Embedded Systems · Web Apps
+mode:      Building. Breaking. Learning.
+open_to:   Collaborating on groundbreaking tech
+```
+
+</td>
+<td width="38%" valign="top">
+
+💡 Passionate about **innovative solutions** and complex coding challenges
+
+🔌 If it has **circuits**, I'm in
+
+🤝 Always up for a **collab** on cool projects
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🧰 Tech Stack
+
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Languages**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,python,java,c,cpp&perline=5" alt="Languages" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=vue,react,bootstrap&perline=3" alt="Frameworks" />
+
+**Tools, Databases & Hardware**
+
+<img src="https://skillicons.dev/icons?i=git,github,mongodb,postman,arduino,raspberrypi&perline=6" alt="Tools" />
 
 </div>
 
-### 🔧 Tools & Technologies
-<div align="center">
+<br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22082?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<div align="center">
-
-🎓 **Bachelor of Science in Computer Engineering Graduate**
-
-💡 Passionate about building innovative solutions and tackling complex coding challenges
-
-🔨 Hardware enthusiast with a love for IoT projects and embedded systems
-
-💞 Looking to collaborate on groundbreaking tech projects
-
-</div>
-
----
-
+<!-- ═══════════════ FUN FACTS ═══════════════ -->
 ## 🎮 Fun Facts
 
-- 🍫 Built a smart fridge that alerts me when I'm out of snacks (my greatest achievement)
-- 🐱 Once tried teaching my cat to code... now she can type "meow" at lightning speed
-- 🔌 Hardware projects are my happy place – if it has circuits, I'm in!
+> 🍫 Built a **smart fridge** that alerts me when I'm out of snacks — *my greatest achievement*
+>
+> 🐱 Tried teaching my cat to code… she can now type `meow` at **lightning speed**
+>
+> 🔌 Hardware projects are my **happy place**
 
----
+<br/>
 
-## 📊 GitHub Analytics
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gilgabunada&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&border_color=FF00FF)
+<a href="https://github.com/Gilgabunada">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gilgabunada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=00E5FF&text_color=C9D1D9&ring_color=C77DFF&rank_icon=github" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Gilgabunada">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgabunada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=C9D1D9" alt="Top Languages" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgabunada&layout=compact&theme=radical&bg_color=0D1117&title_color=FF00FF&border_color=FF00FF)
+<br/>
 
-![GitHub Streak](https://github-streak-stats.herokuapp.com/?user=Gilgabunada&theme=radical&background=0D1117&stroke=FF00FF&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF)
+<img src="https://streak-stats.demolab.com?user=Gilgabunada&theme=tokyonight&hide_border=true&background=0D1117&ring=C77DFF&fire=00E5FF&currStreakLabel=C77DFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Gilgabunada&theme=radical&row=1&column=6&no-frame=true)
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gilgabunada&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophies" />
 
 </div>
 
----
+<br/>
 
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guelbertgabunada@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-00FFFF?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/GGabunada49596)
-[![Facebook](https://img.shields.io/badge/Facebook-FF00FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gil.gabunada/)
-
-</div>
-
----
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 📬 Let's Connect
 
 <div align="center">
-  <i>✨ Building the future, one line of code at a time ✨</i>
+
+<a href="mailto:guelbertgabunada@gmail.com"><img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/GGabunada49596"><img src="https://img.shields.io/badge/X-00E5FF?style=for-the-badge&logo=x&logoColor=black" alt="X" /></a>
+<a href="https://www.facebook.com/gil.gabunada/"><img src="https://img.shields.io/badge/Facebook-7B2CBF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
+<br/><br/>
+
+<i>✨ Building the future, one line of code at a time ✨</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer" width="100%" alt="footer" />
+
 </div>
