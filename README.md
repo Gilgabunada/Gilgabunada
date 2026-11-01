@@ -73,6 +73,41 @@ open_to:   Collaborating on groundbreaking tech
 
 <br/>
 
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Tech Store Backend
+A REST API backend for a tech store, fully documented and testable in Postman.
+
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+
+<a href="https://documenter.getpostman.com/view/58149914/2sBYHXPxns"><img src="https://img.shields.io/badge/API%20Docs-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117" alt="API Docs" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Programming Odyssey
+My learning journey and coding experiments, all in one place.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+
+<a href="https://gilgabunada.github.io/Programming-Odyssey/"><img src="https://img.shields.io/badge/Visit-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="Visit" /></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ═══════════════ FUN FACTS ═══════════════ -->
 ## 🎮 Fun Facts
 
