@@ -85,20 +85,23 @@ open_to:   Collaborating on groundbreaking tech
 
 <div align="center">
 
-<a href="https://github.com/Gilgabunada">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gilgabunada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=00E5FF&text_color=C9D1D9&ring_color=C77DFF&rank_icon=github" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Gilgabunada">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgabunada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=C9D1D9" alt="Top Languages" />
-</a>
+<img src="https://img.shields.io/github/followers/Gilgabunada?style=for-the-badge&logo=github&color=7B2CBF&labelColor=0D1117" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Gilgabunada?style=for-the-badge&logo=github&color=C77DFF&labelColor=0D1117&affiliations=OWNER" alt="Stars" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Gilgabunada&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=00E5FF&labelColor=0D1117" alt="Public repos" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Gilgabunada&theme=tokyonight&hide_border=true&background=0D1117&ring=C77DFF&fire=00E5FF&currStreakLabel=C77DFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gilgabunada&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophies" />
+<img width="62%" src="https://raw.githubusercontent.com/Gilgabunada/Gilgabunada/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+
+<img height="170" src="https://raw.githubusercontent.com/Gilgabunada/Gilgabunada/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+<img height="170" src="https://raw.githubusercontent.com/Gilgabunada/Gilgabunada/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
+
+<img height="170" src="https://raw.githubusercontent.com/Gilgabunada/Gilgabunada/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" />
+<img height="170" src="https://raw.githubusercontent.com/Gilgabunada/Gilgabunada/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" />
 
 </div>
 
