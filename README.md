@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://gil.guelbertgabunada.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-C77DFF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" /></a>
-<a href="https://gilgabunada.github.io/Programming-Odyssey/"><img src="https://img.shields.io/badge/Programming%20Odyssey-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Programming Odyssey" /></a>
+<a href="https://documenter.getpostman.com/view/58149914/2sBYHXPxns"><img src="https://img.shields.io/badge/Tech%20Store-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Techstore" /></a>
 <img src="https://komarev.com/ghpvc/?username=Gilgabunada&label=Profile%20views&color=7B2CBF&style=for-the-badge" alt="Profile views" />
 
 </div>
